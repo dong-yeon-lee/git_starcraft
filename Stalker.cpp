@@ -3,7 +3,7 @@
 
 using namespace std;
 
-Stalker::Stalker()
+Dragoon::Dragoon()
 	: Unit({ 0,0 } , { 0 , 0 })
 	, moveSpeed(1)
 {

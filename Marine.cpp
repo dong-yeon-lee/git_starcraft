@@ -6,7 +6,7 @@ using namespace std;
 
 extern Zergling Zergling1;
 
-Marine::Marine()
+firebat::firebat()
 	: Unit({ 0,0 } , { 0 , 0 })
 	, moveSpeed(1)
 {
