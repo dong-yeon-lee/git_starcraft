@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Starcraft.dir/main.cpp.o CMakeFiles/Starcraft.dir/Unit.cpp.o CMakeFiles/Starcraft.dir/Zergling.cpp.o CMakeFiles/Starcraft.dir/Marine.cpp.o CMakeFiles/Starcraft.dir/Stalker.cpp.o  -o Starcraft 
